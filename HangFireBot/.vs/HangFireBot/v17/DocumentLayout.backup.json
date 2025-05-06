@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hangfire\\HangFireBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\managers\\manager\\governmentholidaysmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\managers\\manager\\governmentholidaysmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\models\\governmentholidaydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\models\\governmentholidaydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\controllers\\governmentholidayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\controllers\\governmentholidayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\managers\\interface\\igovernmentholidaysmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\managers\\interface\\igovernmentholidaysmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hangfire\\bangladesh_government_holidays_2025.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\schedulers\\scheduleholidayreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\schedulers\\scheduleholidayreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\models\\entites\\responseentites\\commonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\models\\entites\\responseentites\\commonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|e:\\hangfire\\hangfirebot\\hangfirebot\\hangfirebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9617DB68-2B21-4C0D-AE98-C0AC8277BC57}|HangFireBot\\HangFireBot.csproj|solutionrelative:hangfirebot\\hangfirebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GovernmentHolidaysManager.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Managers\\Manager\\GovernmentHolidaysManager.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Managers\\Manager\\GovernmentHolidaysManager.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Managers\\Manager\\GovernmentHolidaysManager.cs",
+              "RelativeToolTip": "HangFireBot\\Managers\\Manager\\GovernmentHolidaysManager.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:38:34.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HangFireBot\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:12:42.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GovernmentHolidaysController.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Controllers\\GovernmentHolidaysController.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Controllers\\GovernmentHolidaysController.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Controllers\\GovernmentHolidaysController.cs",
+              "RelativeToolTip": "HangFireBot\\Controllers\\GovernmentHolidaysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:37:20.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GovernmentHolidayData.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Models\\GovernmentHolidayData.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Models\\GovernmentHolidayData.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Models\\GovernmentHolidayData.cs",
+              "RelativeToolTip": "HangFireBot\\Models\\GovernmentHolidayData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:34:18.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Program.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Program.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Program.cs",
+              "RelativeToolTip": "HangFireBot\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAApwDYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:32:07.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherResponse.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Models\\WeatherResponse.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Models\\WeatherResponse.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Models\\WeatherResponse.cs",
+              "RelativeToolTip": "HangFireBot\\Models\\WeatherResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:32:09.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGovernmentHolidaysManager.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Managers\\Interface\\IGovernmentHolidaysManager.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Managers\\Interface\\IGovernmentHolidaysManager.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Managers\\Interface\\IGovernmentHolidaysManager.cs",
+              "RelativeToolTip": "HangFireBot\\Managers\\Interface\\IGovernmentHolidaysManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:37:44.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bangladesh_government_holidays_2025.json",
+              "DocumentMoniker": "E:\\Hangfire\\bangladesh_government_holidays_2025.json",
+              "RelativeDocumentMoniker": "..\\bangladesh_government_holidays_2025.json",
+              "ToolTip": "E:\\Hangfire\\bangladesh_government_holidays_2025.json",
+              "RelativeToolTip": "..\\bangladesh_government_holidays_2025.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T09:31:33.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonResponse.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Models\\Entites\\ResponseEntites\\CommonResponse.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Models\\Entites\\ResponseEntites\\CommonResponse.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Models\\Entites\\ResponseEntites\\CommonResponse.cs",
+              "RelativeToolTip": "HangFireBot\\Models\\Entites\\ResponseEntites\\CommonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:51:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScheduleHolidayReminders.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Schedulers\\ScheduleHolidayReminders.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Schedulers\\ScheduleHolidayReminders.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Schedulers\\ScheduleHolidayReminders.cs",
+              "RelativeToolTip": "HangFireBot\\Schedulers\\ScheduleHolidayReminders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:52:52.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\appsettings.json",
+              "RelativeDocumentMoniker": "HangFireBot\\appsettings.json",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\appsettings.json",
+              "RelativeToolTip": "HangFireBot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T06:32:08.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HangFireBot\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HangFireBot\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T08:31:48.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "HangFireBot\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "HangFireBot\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:42:07.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HangFireBot.csproj",
+              "DocumentMoniker": "E:\\Hangfire\\HangFireBot\\HangFireBot\\HangFireBot.csproj",
+              "RelativeDocumentMoniker": "HangFireBot\\HangFireBot.csproj",
+              "ToolTip": "E:\\Hangfire\\HangFireBot\\HangFireBot\\HangFireBot.csproj",
+              "RelativeToolTip": "HangFireBot\\HangFireBot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T06:24:41.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

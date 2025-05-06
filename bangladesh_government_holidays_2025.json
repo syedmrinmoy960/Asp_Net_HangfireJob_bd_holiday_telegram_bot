@@ -1,0 +1,142 @@
+{
+  "country": "Bangladesh",
+  "year": 2025,
+  "total_holidays": 27,
+  "holidays": [
+    {
+	  "sl_no": 1,
+	  "name": "Test Holiday",
+	  "date": "2024-12-10",  // Set this to tomorrow's date for testing
+	  "day": "Monday",
+	  "num_of_holidays": 1
+    },
+    {
+      "sl_no": 2,
+      "name": "Shahid Day and International Mother Language Day",
+      "date": "2025-02-21",
+      "day": "Friday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 3,
+      "name": "Independence and National Day",
+      "date": "2025-03-26",
+      "day": "Wednesday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 4,
+      "name": "Jumat-ul-Wida and Shab-e-Qadr",
+      "date": "2025-03-28",
+      "day": "Friday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 5,
+      "name": "Eid-ul-Fitr",
+      "date": "2025-03-29 to 2025-04-02",
+      "days": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "num_of_holidays": 5
+    },
+    {
+      "sl_no": 6,
+      "name": "Bengali New Year's Day",
+      "date": "2025-04-14",
+      "day": "Monday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 7,
+      "name": "May Day",
+      "date": "2025-05-01",
+      "day": "Thursday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 8,
+      "name": "Buddha Purnima (Boishakhi Purnima)",
+      "date": "2025-05-11",
+      "day": "Sunday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 9,
+      "name": "Eid-ul-Azha",
+      "date": "2025-06-05 to 2025-06-10",
+      "days": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "num_of_holidays": 6
+    },
+    {
+      "sl_no": 10,
+      "name": "Bank Holiday",
+      "date": "2025-07-01",
+      "day": "Tuesday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 11,
+      "name": "Ashura",
+      "date": "2025-07-06",
+      "day": "Sunday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 12,
+      "name": "Janmashtami",
+      "date": "2025-08-16",
+      "day": "Saturday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 13,
+      "name": "Eid-e-Milad-un-Nabi (S)",
+      "date": "2025-09-05",
+      "day": "Friday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 14,
+      "name": "Durga Puja (Nabami & Bijoya Dashami)",
+      "date": "2025-10-01 to 2025-10-02",
+      "days": [
+        "Wednesday",
+        "Thursday"
+      ],
+      "num_of_holidays": 2
+    },
+    {
+      "sl_no": 15,
+      "name": "Victory Day",
+      "date": "2025-12-16",
+      "day": "Tuesday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 16,
+      "name": "Christmas Day",
+      "date": "2025-12-25",
+      "day": "Thursday",
+      "num_of_holidays": 1
+    },
+    {
+      "sl_no": 17,
+      "name": "Bank Holiday",
+      "date": "2025-12-31",
+      "day": "Wednesday",
+      "num_of_holidays": 1
+    }
+  ]
+}
